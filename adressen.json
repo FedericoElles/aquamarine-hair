@@ -1,0 +1,1202 @@
+{
+	"Ritterstr. 78, 10969 Berlin": {
+		"lat": 52.5036075,
+		"lng": 13.402409
+	},
+	"Quermatenweg 6, 14163 Berlin": {
+		"lat": 52.4474067,
+		"lng": 13.2338091
+	},
+	"Gürtelstraße 16, 10409 Berlin": {
+		"lat": 52.5444649,
+		"lng": 13.4542326
+	},
+	"Auf dem Grat 3, 14195 Berlin": {
+		"lat": 52.4559693,
+		"lng": 13.2741315
+	},
+	"Treuenbrietzener Straße 28, 13439 Berlin": {
+		"lat": 52.60041,
+		"lng": 13.36429
+	},
+	"Neukladower Allee 1, 14089 Berlin": {
+		"lat": 52.4597602,
+		"lng": 13.1541977
+	},
+	"Eisenzahnstraße 37, 10709 Berlin": {
+		"lat": 52.48936,
+		"lng": 13.30472
+	},
+	"Claszeile 60, 14165 Berlin": {
+		"lat": 52.41847,
+		"lng": 13.25739
+	},
+	"Monumentenstraße 13, 10829 Berlin": {
+		"lat": 52.4881997,
+		"lng": 13.3678374
+	},
+	"Bleickenallee 1, 22763 Hamburg": {
+		"lat": 53.5505992,
+		"lng": 9.9217642
+	},
+	"Elbchaussee 366, 22609 Hamburg": {
+		"lat": 53.55,
+		"lng": 9.85675
+	},
+	"Rahlstedter Weg 60, 22159 Hamburg": {
+		"lat": 53.6030955,
+		"lng": 10.1274669
+	},
+	"Bergstedter Chaussee 205, 22395 Hamburg": {
+		"lat": 53.6756,
+		"lng": 10.13585
+	},
+	"Am Brink 7, 21029 Hamburg": {
+		"lat": 53.48516,
+		"lng": 10.21721
+	},
+	"Bergstedter Chaussee 207, 22395 Hamburg": {
+		"lat": 53.674967,
+		"lng": 10.1359054
+	},
+	"Ehestorfer Heuweg 82, 21149 Hamburg": {
+		"lat": 53.4613009,
+		"lng": 9.8919341
+	},
+	"Heinrichstr. 14, 22769 Hamburg": {
+		"lat": 53.56611,
+		"lng": 9.9574
+	},
+	"Hofholzallee 20, 24109 Kiel": {
+		"lat": 54.3206,
+		"lng": 10.08977
+	},
+	"Sihlstr. 23, 8134 Adliswil/ZH": {
+		"lat": 47.3031022,
+		"lng": 8.5260397
+	},
+	"Nobiskrüger Allee 75/77, 24768 Rendsburg": {
+		"lat": 54.30423,
+		"lng": 9.68671
+	},
+	"Woellmerstraße 1, 21075 Hamburg": {
+		"lat": 53.4653016,
+		"lng": 9.9594781
+	},
+	"Am Kählerhof 4, 25524 Itzehoe": {
+		"lat": 53.9090202,
+		"lng": 9.483412
+	},
+	"Roschdohlerweg 144, 24536 Neumünster": {
+		"lat": 54.1127,
+		"lng": 9.98199
+	},
+	"Kisdorfer Weg 1, 24568 Kaltenkirchen": {
+		"lat": 53.83178,
+		"lng": 9.9746
+	},
+	"Adenauerdamm 2, 25337 Elmshorn": {
+		"lat": 53.7404,
+		"lng": 9.67932
+	},
+	"Valentiner Allee 1, 24941 Flensburg": {
+		"lat": 54.7704124,
+		"lng": 9.4450436
+	},
+	"Schleswiger Str. 112, 24340 Eckernförde": {
+		"lat": 54.4807373,
+		"lng": 9.8188876
+	},
+	"Rudolf-Steiner-Weg 1, 23738 Lensahn": {
+		"lat": 54.2227663,
+		"lng": 10.874285
+	},
+	"Alte Landstr. 89f, 22941 Bargteheide": {
+		"lat": 53.72505,
+		"lng": 10.24448
+	},
+	"Dieselstraße 18, 23566 Lübeck": {
+		"lat": 53.8567523,
+		"lng": 10.7413566
+	},
+	"Am Propsteihof 53, 31139 Hildesheim": {
+		"lat": 52.14544,
+		"lng": 9.91974
+	},
+	"Ringstraße 1, 25797 Wöhrden": {
+		"lat": 54.1650108,
+		"lng": 8.9977147
+	},
+	"Hagener Weg, 29456 Hitzacker": {
+		"lat": 53.1438117,
+		"lng": 11.0305067
+	},
+	"Weidkampshaide 17, 30659 Hannover": {
+		"lat": 52.41308,
+		"lng": 9.81282
+	},
+	"Arbecksweg 1, 37077 Göttingen": {
+		"lat": 51.56903,
+		"lng": 9.93686
+	},
+	"Touler Str. 3, 28211 Bremen": {
+		"lat": 53.08253,
+		"lng": 8.84414
+	},
+	"Cordinger Straße 35, 29699 Bomlitz (Benefeld)": {
+		"lat": 52.9042,
+		"lng": 9.63772
+	},
+	"Schulstraße 35, 26603 Aurich": {
+		"lat": 53.4852,
+		"lng": 7.4916
+	},
+	"Auf der Loge 18 A, 27305 Bruchhausen-Vilsen": {
+		"lat": 52.8322566,
+		"lng": 8.9836813
+	},
+	"Walter-Bötcher-Str. 6, 21337 Lüneburg": {
+		"lat": 53.2460889,
+		"lng": 10.4467661
+	},
+	"Rudolf-Steiner-Str. 2, 38120 Braunschweig": {
+		"lat": 52.2500264,
+		"lng": 10.4913613
+	},
+	"Schulweg 1, 21255 Wistedt": {
+		"lat": 53.2722281,
+		"lng": 9.6828162
+	},
+	"Robert-Schuman-Str. 7, 38444 Wolfsburg": {
+		"lat": 52.39597,
+		"lng": 10.7572
+	},
+	"Auf dem Brink 49, 21641 Apensen": {
+		"lat": 53.4366898,
+		"lng": 9.6092234
+	},
+	"Rudolf-von-Bennigsen-Ufer 70, 30173 Hannover": {
+		"lat": 52.3514662,
+		"lng": 9.7488809
+	},
+	"Deichstr. 12b, 27472 Cuxhaven": {
+		"lat": 53.86503,
+		"lng": 8.70052
+	},
+	"Icker Landstr. 8, 49565 Bramsche": {
+		"lat": 52.3738164,
+		"lng": 8.1038316
+	},
+	"Icker Landstraße 16, 49565 Bramsche": {
+		"lat": 52.37665,
+		"lng": 8.09714
+	},
+	"Weetzener Str. 1, 30974 Sorsum": {
+		"lat": 52.28023,
+		"lng": 9.60688
+	},
+	"Stedinger Str. 20-22, 26135 Oldenburg": {
+		"lat": 53.13296,
+		"lng": 8.22407
+	},
+	"Cordinger Str. 39, 29699 Bomlitz (Benefeld)": {
+		"lat": 52.9051217,
+		"lng": 9.6394918
+	},
+	"Am Südtor 15, 30880 Laatzen": {
+		"lat": 52.29887,
+		"lng": 9.80407
+	},
+	"Amtshof 5, 28870 Ottersberg": {
+		"lat": 53.10547,
+		"lng": 9.13885
+	},
+	"Blumenhof 9, 26135 Oldenburg": {
+		"lat": 53.13339,
+		"lng": 8.22229
+	},
+	"Lindenstraße 55, 27711 Osterholz-Scharmbeck": {
+		"lat": 53.23132,
+		"lng": 8.78763
+	},
+	"Dorfstr. 15, 21403 Wendisch Evern": {
+		"lat": 53.21527,
+		"lng": 10.47081
+	},
+	"Graubündener Str. 4, 28325 Bremen": {
+		"lat": 53.0673999,
+		"lng": 8.9446118
+	},
+	"Henning-von-Tresckow-Weg 2, 21684 Stade": {
+		"lat": 53.57389,
+		"lng": 9.49473
+	},
+	"Lange Straße 2, 21255 Kakenstorf": {
+		"lat": 53.30429,
+		"lng": 9.75611
+	},
+	"Rockwinkeler Landstraße 41/43, 28355 Bremen": {
+		"lat": 53.0842,
+		"lng": 8.93241
+	},
+	"Fresenbergstr. 26, 28779 Bremen": {
+		"lat": 53.1837,
+		"lng": 8.5743045
+	},
+	"Waldstraße 81, 49324 Melle": {
+		"lat": 52.2166486,
+		"lng": 8.361742
+	},
+	"An der Propstei 23, 33611 Bielefeld": {
+		"lat": 52.0583028,
+		"lng": 8.550175
+	},
+	"Rudolf-Steiner-Weg 11, 48149 Münster": {
+		"lat": 51.9701,
+		"lng": 7.58185
+	},
+	"Schluchtstraße 21, 42285 Wuppertal": {
+		"lat": 51.25971,
+		"lng": 7.18231
+	},
+	"Schwarzer Weg 9, 42897 Remscheid": {
+		"lat": 51.1549,
+		"lng": 7.26837
+	},
+	"Weiersweg 10, 41065 Mönchengladbach": {
+		"lat": 51.207207,
+		"lng": 6.4814856
+	},
+	"Anton-Kurze-Allee 10, 52064 Aachen": {
+		"lat": 50.760428,
+		"lng": 6.0776473
+	},
+	"Mohnweg 13, 51427 Bergisch Gladbach": {
+		"lat": 50.9603132,
+		"lng": 7.1100953
+	},
+	"Rehfuesstr. 38, 53115 Bonn": {
+		"lat": 50.7195067,
+		"lng": 7.0919333
+	},
+	"Weichselring 6-8, 50765 Köln": {
+		"lat": 51.02986,
+		"lng": 6.89454
+	},
+	"Billerbeckstraße 2, 58455 Witten": {
+		"lat": 51.44017,
+		"lng": 7.32035
+	},
+	"Prälat-Marschall-Str. 34, 42781 Haan": {
+		"lat": 51.2212724,
+		"lng": 7.01106
+	},
+	"Horster Straße 82, 45968 Gladbeck": {
+		"lat": 51.5656,
+		"lng": 6.99669
+	},
+	"Kirchhellstr. 32, 51645 Gummersbach": {
+		"lat": 50.98807,
+		"lng": 7.53703
+	},
+	"Diepenstr. 15, 40625 Düsseldorf": {
+		"lat": 51.2315327,
+		"lng": 6.8469194
+	},
+	"Holsterhauser Str. 70, 44652 Herne": {
+		"lat": 51.5241164,
+		"lng": 7.1886144
+	},
+	"Vorgebirgswall 4-8, 50677 Köln": {
+		"lat": 50.9213359,
+		"lng": 6.943375
+	},
+	"Blomberger Str. 67, 32760 Detmold": {
+		"lat": 51.93215,
+		"lng": 8.89836
+	},
+	"Heinrich-Bierwes-Str. 13 -15, 47259 Duisburg": {
+		"lat": 51.3703,
+		"lng": 6.73737
+	},
+	"Blumendellerstr. 29, 45472 Mülheim": {
+		"lat": 51.43875,
+		"lng": 6.94143
+	},
+	"Schellstraße 47, 45134 Essen": {
+		"lat": 51.4147057,
+		"lng": 7.029672
+	},
+	"Höntroper Str. 95, 44869 Bochum": {
+		"lat": 51.45951,
+		"lng": 7.15947
+	},
+	"Numbachstraße 3, 57072 Siegen": {
+		"lat": 50.8834386,
+		"lng": 8.0031186
+	},
+	"Graf-Zeppelin-Str. 7, 53757 Sankt Augustin": {
+		"lat": 50.76112,
+		"lng": 7.16933
+	},
+	"Schloss Hamborn 5, 33178 Borchen": {
+		"lat": 51.661138,
+		"lng": 8.7719878
+	},
+	"Wester 32, 48351 Everswinkel": {
+		"lat": 51.91872,
+		"lng": 7.83095
+	},
+	"Wisbyring 13, 59494 Soest": {
+		"lat": 51.5629756,
+		"lng": 8.1031485
+	},
+	"Kobbenskamp 23, 59077 Hamm": {
+		"lat": 51.6376978,
+		"lng": 7.7516508
+	},
+	"Hauptstr. 238, 44892 Bochum": {
+		"lat": 51.46975,
+		"lng": 7.32187
+	},
+	"Mergelteichstr. 51, 44225 Dortmund": {
+		"lat": 51.47166,
+		"lng": 7.46317
+	},
+	"An der Waldorfschule 1, 50374 Erftstadt": {
+		"lat": 50.8005597,
+		"lng": 6.8331105
+	},
+	"Eppinkstraße 173, 46535 Dinslaken": {
+		"lat": 51.5642,
+		"lng": 6.70359
+	},
+	"Wittensteinstr. 76, 42285 Wuppertal": {
+		"lat": 51.2606145,
+		"lng": 7.1738328
+	},
+	"Kaiserstraße 61, 47800 Krefeld": {
+		"lat": 51.33714,
+		"lng": 6.59379
+	},
+	"Aachen-und-Münchener-Allee 5, 52074 Aachen": {
+		"lat": 50.75999,
+		"lng": 6.07522
+	},
+	"Haberbreede 37, 32429 Minden": {
+		"lat": 52.26977,
+		"lng": 8.83022
+	},
+	"Dechant-Ruppertzhoven-Weg 12, 41844 Wegberg": {
+		"lat": 51.1447408,
+		"lng": 6.1879185
+	},
+	"Enneper Straße 30, 58135 Hagen": {
+		"lat": 51.34285,
+		"lng": 7.40736
+	},
+	"Mergelteichstr. 63, 44225 Dortmund": {
+		"lat": 51.4713846,
+		"lng": 7.464065
+	},
+	"Hermann-Rothert-Str. 7, 33335 Gütersloh": {
+		"lat": 51.93686,
+		"lng": 8.48437
+	},
+	"Kolpingstr. 3, 57072 Siegen": {
+		"lat": 50.887465,
+		"lng": 8.0404547
+	},
+	"Kirchender Dorfweg 21, 58313 Herdecke": {
+		"lat": 51.41808,
+		"lng": 7.4241
+	},
+	"Breite Straße 44, 53819 Neunkirchen-Seelscheid": {
+		"lat": 50.87432,
+		"lng": 7.31887
+	},
+	"Stettiner Str. 21, 53119 Bonn": {
+		"lat": 50.74658,
+		"lng": 7.05584
+	},
+	"Stockumerstr. 100, 58454 Witten": {
+		"lat": 51.45907,
+		"lng": 7.37382
+	},
+	"Gerhard-Kienle-Weg 4, 58313 Herdecke": {
+		"lat": 51.4105097,
+		"lng": 7.3978396
+	},
+	"Pannerstraße 24, 42555 Velbert": {
+		"lat": 51.34677,
+		"lng": 7.12891
+	},
+	"Remmelshagen 1-5, 58809 Neuenrade": {
+		"lat": 51.26678,
+		"lng": 7.76053
+	},
+	"Merkurweg 2, 55126 Mainz": {
+		"lat": 49.99523,
+		"lng": 8.17456
+	},
+	"Julius-Bettinger-Str. 1, 67227 Frankenthal": {
+		"lat": 49.52223,
+		"lng": 8.3528
+	},
+	"Wilhelm-von-Nassau-Park 19, 65582 Diez": {
+		"lat": 50.37701,
+		"lng": 8.00318
+	},
+	"Montessoriweg 7, 54296 Trier": {
+		"lat": 49.72943,
+		"lng": 6.64721
+	},
+	"Schulstraße 4, 67697 Otterberg": {
+		"lat": 49.5005791,
+		"lng": 7.761
+	},
+	"An der Molkerei 15, 56288 Kastellaun": {
+		"lat": 50.0658,
+		"lng": 7.44984
+	},
+	"Augustenthaler Str. 25, 56567 Neuwied": {
+		"lat": 50.4657677,
+		"lng": 7.4691412
+	},
+	"Konrad-Adenauerstr.16, 67433 Neustadt": {
+		"lat": 49.353475,
+		"lng": 8.1423674
+	},
+	"Loheland, 36093 Künzell": {
+		"lat": 50.5095625,
+		"lng": 9.7625547
+	},
+	"Ockershäuser Allee 14, 35037 Marburg": {
+		"lat": 50.80322,
+		"lng": 8.75696
+	},
+	"Am Bahnhof 2, 37269 Eschwege": {
+		"lat": 51.1919189,
+		"lng": 10.038146
+	},
+	"Eichwäldchenweg 8, 61440 Oberursel": {
+		"lat": 50.21754,
+		"lng": 8.55528
+	},
+	"Arndtstr. 6, 64297 Darmstadt": {
+		"lat": 49.8152203,
+		"lng": 8.6398719
+	},
+	"An der Vogelhecke 1, 63128 Dietzenbach": {
+		"lat": 50.02249,
+		"lng": 8.77137
+	},
+	"Friedlebenstraße 52, 60433 Frankfurt am Main": {
+		"lat": 50.14752,
+		"lng": 8.67466
+	},
+	"An der Birkenkaute 8, 61231 Bad Nauheim": {
+		"lat": 50.37391,
+		"lng": 8.75256
+	},
+	"Hunrodstraße 17, 34131 Kassel": {
+		"lat": 51.3063249,
+		"lng": 9.4184641
+	},
+	"Württemberger Straße 18, 34131 Kassel": {
+		"lat": 51.3031,
+		"lng": 9.4373
+	},
+	"Neunkircher Str. 70, 66299 Friedrichsthal": {
+		"lat": 49.33436,
+		"lng": 7.10299
+	},
+	"Schoosbergstraße 11, 66625 Nohfelden-Walhausen": {
+		"lat": 49.56109,
+		"lng": 7.12414
+	},
+	"Marxstraße 22, 61440 Oberursel": {
+		"lat": 50.2077,
+		"lng": 8.5718
+	},
+	"Oben am Dorf, 66453 Walsheim": {
+		"lat": 49.1595536,
+		"lng": 7.2318392
+	},
+	"Albert-Schweitzer-Allee 40, 65203 Wiesbaden": {
+		"lat": 50.04277,
+		"lng": 8.22721
+	},
+	"Parkstraße, 66450 Bexbach": {
+		"lat": 49.3442282,
+		"lng": 7.2564415
+	},
+	"Schulstraße 11, 66126 Saarbrücken": {
+		"lat": 49.2571659,
+		"lng": 6.9139257
+	},
+	"Moltkestraße 29, 72762 Reutlingen": {
+		"lat": 48.4889169,
+		"lng": 9.2035536
+	},
+	"Schluchseestr. 55, 78054 Villingen-Schwenningen": {
+		"lat": 48.06054,
+		"lng": 8.50701
+	},
+	"Max-von-Laue-Straße 4, 74081 Heilbronn": {
+		"lat": 49.12044,
+		"lng": 9.21116
+	},
+	"Rudolf Steiner-Weg 10, 70192 Stuttgart": {
+		"lat": 48.79039,
+		"lng": 9.1535
+	},
+	"Othellostraße 5, 70563 Stuttgart": {
+		"lat": 48.73873,
+		"lng": 9.12371
+	},
+	"Scheffoldstr.136, 73529 Schwäbisch Gmünd": {
+		"lat": 48.7874706,
+		"lng": 9.8249102
+	},
+	"Teurerweg 2, 74523 Schwäbisch Hall": {
+		"lat": 49.11258,
+		"lng": 9.72421
+	},
+	"Steinbeisstr. 65, 71665 Vaihingen": {
+		"lat": 48.9436622,
+		"lng": 8.9579886
+	},
+	"Mittelgewannweg 16, 69123 Heidelberg": {
+		"lat": 49.43939,
+		"lng": 8.63447
+	},
+	"Neckarauer Waldweg 131, 68199 Mannheim": {
+		"lat": 49.4496151,
+		"lng": 8.4719421
+	},
+	"Bergiselstr. 11, 79111 Freiburg": {
+		"lat": 47.97643,
+		"lng": 7.81471
+	},
+	"Rudolf-Steiner-Weg 4, 73650 Winterbach": {
+		"lat": 48.7923,
+		"lng": 9.46994
+	},
+	"Am Maisenbühl 30, 78333 Stockach": {
+		"lat": 47.82071,
+		"lng": 8.97317
+	},
+	"Am Zirkusplatz 1, 79379 Müllheim": {
+		"lat": 47.81328,
+		"lng": 7.62623
+	},
+	"Schwimmbadstrasse 29, 79100 Freiburg": {
+		"lat": 47.98651,
+		"lng": 7.84142
+	},
+	"Römerstr. 97, 89077 Ulm": {
+		"lat": 48.38706,
+		"lng": 9.97012
+	},
+	"Unterer Kuhberg 22, 89077 Ulm": {
+		"lat": 48.38403,
+		"lng": 9.97013
+	},
+	"Freibühlstr. 1, 72829 Engstingen": {
+		"lat": 48.3825,
+		"lng": 9.28049
+	},
+	"Ziegelstraße 50, 89518 Heidenheim": {
+		"lat": 48.6877875,
+		"lng": 10.1518261
+	},
+	"Ahornstraße 41, 73035 Göppingen": {
+		"lat": 48.71172,
+		"lng": 9.60706
+	},
+	"Am Lerchenberg 60-66, 72622 Nürtingen": {
+		"lat": 48.6172874,
+		"lng": 9.3366512
+	},
+	"Neisser Straße 2, 76139 Karlsruhe": {
+		"lat": 49.03463,
+		"lng": 8.44375
+	},
+	"Schlierbachstr. 23, 79650 Schopfheim": {
+		"lat": 47.64635,
+		"lng": 7.8286
+	},
+	"Rotdornweg 30, 72076 Tübingen": {
+		"lat": 48.54698,
+		"lng": 9.05994
+	},
+	"Hohenheimer Str. 20, 71522 Backnang": {
+		"lat": 48.9403864,
+		"lng": 9.4260788
+	},
+	"Schwarzwaldstraße 66, 75173 Pforzheim": {
+		"lat": 48.8836217,
+		"lng": 8.6881221
+	},
+	"Moltkestr. 3, 77654 Offenburg": {
+		"lat": 48.48439,
+		"lng": 7.95991
+	},
+	"Fabrikstraße 33 + 35, 73230 Kirchheim": {
+		"lat": 48.65746,
+		"lng": 9.42979
+	},
+	"Gutenhalde, 70794 Filderstadt": {
+		"lat": 48.6424387,
+		"lng": 9.2303255
+	},
+	"Ludwig-Wilhelm-Str. 10, 76437 Rastatt": {
+		"lat": 48.86236,
+		"lng": 8.21105
+	},
+	"Kiesteichweg 10, 68199 Mannheim": {
+		"lat": 49.4473694,
+		"lng": 8.4713415
+	},
+	"Rengoldshauser Str. 20, 88662 Überlingen": {
+		"lat": 47.77355,
+		"lng": 9.20044
+	},
+	"Rudolf-Steiner-Str. 4, 88239 Wangen": {
+		"lat": 47.67993,
+		"lng": 9.82339
+	},
+	"Weilstraße 90, 73734 Esslingen": {
+		"lat": 48.7361882,
+		"lng": 9.2890517
+	},
+	"Kartäuserstr. 55, 79104 Freiburg": {
+		"lat": 47.99206,
+		"lng": 7.86387
+	},
+	"Burgbergstr. 46-51, 74564 Crailsheim": {
+		"lat": 49.1339168,
+		"lng": 10.0520757
+	},
+	"Haußmannstraße 44, 70188 Stuttgart": {
+		"lat": 48.78241,
+		"lng": 9.19291
+	},
+	"Zum Bildsteinfelsen 26, 79875 Dachsberg": {
+		"lat": 47.72902,
+		"lng": 8.1254
+	},
+	"Rindenmooser Str. 14, 88400 Biberach": {
+		"lat": 48.0786489,
+		"lng": 9.781135
+	},
+	"Fröbelstr. 16, 71634 Ludwigsburg": {
+		"lat": 48.9044,
+		"lng": 9.18418
+	},
+	"Inzlingerstr. 51, 79540 Lörrach": {
+		"lat": 47.59741,
+		"lng": 7.66255
+	},
+	"Kemnater Str. 21, 70619 Stuttgart": {
+		"lat": 48.7365228,
+		"lng": 9.2236623
+	},
+	"Friedrich-List-Str. 14, 72250 Freudenstadt": {
+		"lat": 48.4692467,
+		"lng": 8.4200789
+	},
+	"Hurdnagelstr. 3, 72336 Balingen": {
+		"lat": 48.2416184,
+		"lng": 8.8757127
+	},
+	"Ingeborg-Drewitz-Allee 1, 79111 Freiburg": {
+		"lat": 47.99618,
+		"lng": 7.79335
+	},
+	"Robert-Bosch-Str. 3, 78467 Konstanz": {
+		"lat": 47.6748032,
+		"lng": 9.1475744
+	},
+	"Herdweg 163, 71032 Böblingen": {
+		"lat": 48.68594,
+		"lng": 9.03691
+	},
+	"Parkweg 24, 79312 Emmendingen": {
+		"lat": 48.1145165,
+		"lng": 7.8716342
+	},
+	"Maybachstr. 16, 68169 Mannheim": {
+		"lat": 49.5043186,
+		"lng": 8.4717852
+	},
+	"Eduard-Conz-Str. 3a, 75365 Calw": {
+		"lat": 48.71469,
+		"lng": 8.74501
+	},
+	"Mähderstr. 1, 72768 Reutlingen": {
+		"lat": 48.52665,
+		"lng": 9.20391
+	},
+	"Talstraße 11, 79692 Kleines Wiesental-Neuenweg": {
+		"lat": 47.79589,
+		"lng": 7.82774
+	},
+	"Rorgensteig 24, 73312 Geislingen": {
+		"lat": 48.605646,
+		"lng": 9.8408234
+	},
+	"Steig 1, 78628 Rottweil": {
+		"lat": 48.15569,
+		"lng": 8.63838
+	},
+	"Meersburger Str. 148, 88213 Ravensburg": {
+		"lat": 47.7773126,
+		"lng": 9.5781702
+	},
+	"Christian-Fopp-Str. 4, 88239 Wangen": {
+		"lat": 47.6796165,
+		"lng": 9.8202349
+	},
+	"Obere Weinsteige 40, 70597 Stuttgart": {
+		"lat": 48.75315,
+		"lng": 9.17269
+	},
+	"Hirschbachstr. 64, 73431 Aalen": {
+		"lat": 48.84393,
+		"lng": 10.10338
+	},
+	"Mangfallstr. 53, 83026 Rosenheim": {
+		"lat": 47.8365045,
+		"lng": 12.1120847
+	},
+	"Am Eisweiher 1, 95336 Mainleus": {
+		"lat": 50.12035,
+		"lng": 11.39671
+	},
+	"Steinplattenweg 25, 90491 Nürnberg": {
+		"lat": 49.46761,
+		"lng": 11.11725
+	},
+	"Otto-Rothe-Str. 32, 07549 Gera": {
+		"lat": 50.83716,
+		"lng": 12.06573
+	},
+	"Leopoldstraße 17, 80802 München": {
+		"lat": 48.1568639,
+		"lng": 11.5837065
+	},
+	"Max-Proebstl-Str. 7, 81929 München": {
+		"lat": 48.15396,
+		"lng": 11.65243
+	},
+	"Spechtweg 1, 82194 Gröbenzell": {
+		"lat": 48.19348,
+		"lng": 11.38538
+	},
+	"Callenberg 12, 96450 Coburg": {
+		"lat": 50.28226,
+		"lng": 10.92255
+	},
+	"Münchener Str. 72, 86899 Landsberg": {
+		"lat": 48.051509,
+		"lng": 10.8967948
+	},
+	"Malvenweg 2-4, 82538 Geretsried": {
+		"lat": 47.8874419,
+		"lng": 11.4638403
+	},
+	"Dr.-Schmelzing-Str. 52, 86169 Augsburg": {
+		"lat": 48.39641,
+		"lng": 10.90586
+	},
+	"Klosterweg 8, 99425 Weimar": {
+		"lat": 50.964773,
+		"lng": 11.3450383
+	},
+	"Am Ziegelbrunn 10, 97437 Haßfurt": {
+		"lat": 50.0303,
+		"lng": 10.51449
+	},
+	"Am Brand 2, 96110 Scheßlitz": {
+		"lat": 49.9730462,
+		"lng": 11.0266564
+	},
+	"Bernauer Str. 34, 83209 Prien": {
+		"lat": 47.8510508,
+		"lng": 12.344574
+	},
+	"Am Bahnhof 6, 82386 Weilheim-Huglfing": {
+		"lat": 47.77684,
+		"lng": 11.14142
+	},
+	"In der Gibitzen 49, 90530 Wendelstein": {
+		"lat": 49.34456,
+		"lng": 11.1566
+	},
+	"Dorfstraße 77, 85737 Ismaning": {
+		"lat": 48.21534,
+		"lng": 11.68696
+	},
+	"Seewalde 2, 17255 Seewalde": {
+		"lat": 53.2262085,
+		"lng": 12.9326061
+	},
+	"Max-Proebstl-Str.11, 81929 München": {
+		"lat": 48.15355,
+		"lng": 11.65321
+	},
+	"Ackermannstraße 83, 80797 München": {
+		"lat": 48.1624938,
+		"lng": 11.5528815
+	},
+	"Züricherstr. 9, 81476 München": {
+		"lat": 48.0946603,
+		"lng": 11.5008093
+	},
+	"Kolpingshöhe 3, 95032 Hof": {
+		"lat": 50.29517,
+		"lng": 11.91697
+	},
+	"Weinmeisterstr. 16, 10178 Berlin": {
+		"lat": 52.5259585,
+		"lng": 13.4048773
+	},
+	"Rudolf-Steiner-Str. 2, 91058 Erlangen": {
+		"lat": 49.56056,
+		"lng": 11.00719
+	},
+	"Ernst-Thälmann-Str. 62, 99817 Eisenach": {
+		"lat": 50.98992,
+		"lng": 10.30651
+	},
+	"Gutsstraße 4, 06132 Halle": {
+		"lat": 51.4301491,
+		"lng": 11.9691128
+	},
+	"Dorstbornstraße 5, 99094 Erfurt": {
+		"lat": 50.9373664,
+		"lng": 10.9860927
+	},
+	"Spitzwegstr. 63, 95447 Bayreuth": {
+		"lat": 49.93363,
+		"lng": 11.55129
+	},
+	"Leipziger Str. 14, 03048 Cottbus": {
+		"lat": 51.74338,
+		"lng": 14.31266
+	},
+	"Marienallee 5, 01099 Dresden": {
+		"lat": 51.07185,
+		"lng": 13.76504
+	},
+	"Oberer Neubergweg 14, 97074 Würzburg": {
+		"lat": 49.77499,
+		"lng": 9.95101
+	},
+	"Berthastraße 15, 04357 Leipzig": {
+		"lat": 51.36504,
+		"lng": 12.40576
+	},
+	"Bruno-Bürgel-Weg 9, 12439 Berlin": {
+		"lat": 52.452771,
+		"lng": 13.5339056
+	},
+	"Kroatenwuhne 3, 39116 Magdeburg": {
+		"lat": 52.1129011,
+		"lng": 11.5876855
+	},
+	"Schopfheimer Allee 4, 14532 Kleinmachnow": {
+		"lat": 52.4015408,
+		"lng": 13.2178464
+	},
+	"Weinbergweg 30, 15236 Frankfurt (Oder)": {
+		"lat": 52.33618,
+		"lng": 14.52682
+	},
+	"Lüchow 11, 17179 Altkalen": {
+		"lat": 53.90448,
+		"lng": 12.69661
+	},
+	"Hans-Beimler-Straße 79-83, 17491 Greifswald": {
+		"lat": 54.07934,
+		"lng": 13.398
+	},
+	"Marienallee 12, 01099 Dresden": {
+		"lat": 51.0747926,
+		"lng": 13.7691125
+	},
+	"Steinbachstr. 6, 06502 Thale": {
+		"lat": 51.74944,
+		"lng": 11.03364
+	},
+	"Erich-Weinert-Str. 5, 14478 Potsdam": {
+		"lat": 52.36495,
+		"lng": 13.09885
+	},
+	"Sandstraße 102, 09114 Chemnitz": {
+		"lat": 50.86172,
+		"lng": 12.898
+	},
+	"Raschwitzer Str. 4, 04279 Leipzig": {
+		"lat": 51.2952892,
+		"lng": 12.3844956
+	},
+	"Dorfstraße 162a, 02829 Neißeaue": {
+		"lat": 51.2334234,
+		"lng": 15.007838
+	},
+	"Elsastraße 14/16, 14542 Werder": {
+		"lat": 52.3952031,
+		"lng": 12.9247436
+	},
+	"Alte Hauptstraße 15, 07745 Jena": {
+		"lat": 50.8784072,
+		"lng": 11.5905684
+	},
+	"Schäfflerbachstr. 26, 86153 Augsburg": {
+		"lat": 48.3631385,
+		"lng": 10.915402
+	},
+	"Schloßgartenallee 57, 19061 Schwerin": {
+		"lat": 53.61307,
+		"lng": 11.43429
+	},
+	"Feldstraße 48a, 18057 Rostock": {
+		"lat": 54.0848151,
+		"lng": 12.1225891
+	},
+	"Le Quartier-Hornbach 15, 67433 Neustadt a. d. Weinstraße": {
+		"lat": 49.34117,
+		"lng": 8.1664684
+	},
+	"Hans-Beimler-Str. 79, 17491 Greifswald": {
+		"lat": 54.07934,
+		"lng": 13.398
+	},
+	"Zielstr. 28, 68169 Mannheim": {
+		"lat": 49.50523,
+		"lng": 8.49993
+	},
+	"Mergelteichstr. 59, 44225 Dortmund": {
+		"lat": 51.4710786,
+		"lng": 7.4643833
+	},
+	"Zielstraße 28, 68169 Mannheim": {
+		"lat": 49.50523,
+		"lng": 8.49993
+	},
+	"Brabanterstr. 30, 34131 Kassel": {
+		"lat": 51.30873,
+		"lng": 9.41805
+	},
+	"Rudolf-Steiner-Weg 2, 24109 Kiel": {
+		"lat": 54.32092,
+		"lng": 10.08858
+	},
+	"Spechtweg 1, 82194 Gröbenzell": {
+		"lat": 48.19348,
+		"lng": 11.38538
+	},
+	"Annener Berg 15, 58454 Witten/Ruhr": {
+		"lat": 51.45937,
+		"lng": 7.37775
+	},
+	"Hufnerstr. 18, 22083 Hamburg": {
+		"lat": 53.58356,
+		"lng": 10.04255
+	},
+	"Hügelstraße 67, 60433 Frankfurt/Main": {
+		"lat": 50.1488402,
+		"lng": 8.6752314
+	},
+	"Kuhligkshofstr. 4, 12165 Berlin": {
+		"lat": 52.4553025,
+		"lng": 13.3204927
+	},
+	"Rudolf-von-Bennigsen-Ufer 70, 30173 Hannover": {
+		"lat": 52.3514662,
+		"lng": 9.7488809
+	},
+	"Haußmannstr. 44 a, 70188 Stuttgart": {
+		"lat": 48.78241,
+		"lng": 9.19291
+	},
+	"Steinplattenweg 25, 90491 Nürnberg": {
+		"lat": 49.46761,
+		"lng": 11.11725
+	},
+	"Amtshof 5, 28870 Ottersberg": {
+		"lat": 53.10547,
+		"lng": 9.13885
+	},
+	"Libanonstr. 3, 70184 Stuttgart": {
+		"lat": 48.7784459,
+		"lng": 9.194942
+	},
+	"Kroatenwuhne 3, 39116 Magdeburg": {
+		"lat": 52.1129011,
+		"lng": 11.5876855
+	},
+	"Weinmeisterstr. 16, 10178 Berlin": {
+		"lat": 52.5259585,
+		"lng": 13.4048773
+	},
+	"Hufnerstr. 18, 22083 Hamburg": {
+		"lat": 53.58356,
+		"lng": 10.04255
+	},
+	"Leopoldstr. 17, 80802 München": {
+		"lat": 48.1568639,
+		"lng": 11.5837065
+	},
+	"Rankestr. 44, 70619 Stuttgart": {
+		"lat": 48.7486708,
+		"lng": 9.2148086
+	},
+	"Rudolf-v.-Bennigsen-Ufer 70, 30173 Hannover": {
+		"lat": 52.3514662,
+		"lng": 9.7488809
+	},
+	"Brabanterstr. 30, 34131 Kassel": {
+		"lat": 51.30873,
+		"lng": 9.41805
+	},
+	"Hauptstr. 49, 01465 Langebrück": {
+		"lat": 51.13157,
+		"lng": 13.83886
+	},
+	", 29456 Hitzacker": {
+		"lat": 53.1479586,
+		"lng": 11.0436624
+	},
+	"Ehestorfer Heuweg 82, 21149 Hamburg": {
+		"lat": 53.4613009,
+		"lng": 9.8919341
+	},
+	"Mühlenstr. 258, 47475 Kamp-Lintfort": {
+		"lat": 51.49726,
+		"lng": 6.50488
+	},
+	"Weinmeisterstr. 16, 10178 Berlin": {
+		"lat": 52.5259585,
+		"lng": 13.4048773
+	},
+	"Weinmeisterstraße 16, 10178 Berlin": {
+		"lat": 52.5259585,
+		"lng": 13.4048773
+	},
+	"Alte Hauptstr. 15, 07745 Jena": {
+		"lat": 50.8784072,
+		"lng": 11.5905684
+	},
+	"Lutherweg 8, 70563 Stuttgart": {
+		"lat": 48.7341459,
+		"lng": 9.1139296
+	},
+	"Bonekampsheide 2a, 49565 Bramsche": {
+		"lat": 52.37974,
+		"lng": 8.09921
+	},
+	"Brehmstraße 1, 30173 Hannover": {
+		"lat": 52.3671158,
+		"lng": 9.765404
+	},
+	"Rudolf Steiner Weg 2, 24109 Kiel": {
+		"lat": 54.32092,
+		"lng": 10.08858
+	},
+	"Schulstraße 11, 66126 Saarbrücken": {
+		"lat": 49.2571659,
+		"lng": 6.9139257
+	},
+	"Annener Berg 15, 58454 Witten": {
+		"lat": 51.45937,
+		"lng": 7.37775
+	},
+	"Prager Ring 13, 97084 Würzburg": {
+		"lat": 49.73678,
+		"lng": 9.96074
+	},
+	"Luxemburger Str. 190, 50937 Köln": {
+		"lat": 50.9187576,
+		"lng": 6.9302662
+	},
+	"Friedlebenstr. 52, 60433 Frankfurt am Main": {
+		"lat": 50.14752,
+		"lng": 8.67466
+	},
+	"Postfach 10 13 12, 88643 Überlingen": {
+		"lat": 47.7661746,
+		"lng": 9.1702772
+	},
+	"Zielstr. 28, 68169 Mannheim": {
+		"lat": 49.50523,
+		"lng": 8.49993
+	},
+	"Schulstr. 11, 66126 Saarbrücken-Altenkessel": {
+		"lat": 49.2571659,
+		"lng": 6.9139257
+	},
+	"Hermann-Rothert- Str. 7, 33335 Gütersloh": {
+		"lat": 51.93686,
+		"lng": 8.48437
+	},
+	"Holsterhauser Str.70 c, 44652 Herne": {
+		"lat": 51.52373,
+		"lng": 7.18823
+	},
+	"Dieselstraße 18, 23566 Lübeck": {
+		"lat": 53.8567523,
+		"lng": 10.7413566
+	},
+	"Rauensteinstr. 69, 88662 Überlingen": {
+		"lat": 47.76466,
+		"lng": 9.17701
+	},
+	"Steinplattenweg 25, 90491 Nürnberg": {
+		"lat": 49.46761,
+		"lng": 11.11725
+	},
+	"Holsterhausserstr. 70, 44562 Herne": {
+		"lat": 51.5241164,
+		"lng": 7.1886144
+	},
+	"Rudolf-Steiner-Weg 2, 24109 Kiel": {
+		"lat": 54.32092,
+		"lng": 10.08858
+	},
+	"Villestr. 3, 53347 Alfter": {
+		"lat": 50.7380266,
+		"lng": 7.0107023
+	},
+	"Moltkestr. 3, 77645 Offenburg": {
+		"lat": 48.48439,
+		"lng": 7.95991
+	},
+	"Meersburger Str. 148, 88213 Ravensburg": {
+		"lat": 47.7773126,
+		"lng": 9.5781702
+	},
+	"Büroadresse: Alte Straße 62, 79247 Merzhausen": {
+		"lat": 47.9679165,
+		"lng": 7.8279978
+	},
+	"Wagenburgstr. 6, 70184 Stuttgart": {
+		"lat": 48.7783756,
+		"lng": 9.1916231
+	},
+	"Brunnholzweg 20, 83352 Altenmarkt/Alb": {
+		"lat": 47.99451,
+		"lng": 12.5218
+	},
+	"Villestraße 3, 53347 Alfter bei Bonn": {
+		"lat": 50.73743,
+		"lng": 7.0982068
+	},
+	"Zielstraße 28, 68169 Mannheim": {
+		"lat": 49.50523,
+		"lng": 8.49993
+	}
+}
